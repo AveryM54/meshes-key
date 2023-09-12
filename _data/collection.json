@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Meshes of the Afternoon_Key" ] },
+    "summary": { "en": [ "Annotations of Meshes of the Afternoon focusing on the key." ] },
+    "items": [
+    ]
+}
